@@ -4,8 +4,5 @@
 ![STEP:2 __click on cross button__](assets\Screenshot 2023-05-27 211356.png)
 ![STEP:3 __copy the code__](assets\Screenshot 2023-05-27 211452.png)
 ![STEP:4 __click on console and paste the copied code__](assets\Screenshot 2023-05-27 211452.png)
-![STEP:5 __Enjoy 🙂__](https://peakpx.com/wallpaper/280/446/HD-wallpaper-tom-and-jarry-and-jarry-tom.jpg)
-<p align="center">csascffcas
-  <img src="https://w0.peakpx.com/wallpaper/280/446/HD-wallpaper-tom-and-jarry-and-jarry-tom.jpg" width="350" title="hover text">
-  <img src="https://github.com/SAMshashank/CheckBox/blob/main/assets/Screenshot%202023-05-27%20211317.png" width="350" alt="accessibility text">
-</p>
+![STEP:5 __Enjoy 🙂__](https://drive.google.com/file/d/122M2fiOeLDrflH0YonHeOWeeYpkHc76v/view?usp=share_link)
+
