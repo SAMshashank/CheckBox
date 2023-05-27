@@ -5,3 +5,7 @@
 ![STEP:3 __copy the code__](assets\Screenshot 2023-05-27 211452.png)
 ![STEP:4 __click on console and paste the copied code__](assets\Screenshot 2023-05-27 211452.png)
 ![STEP:5 __Enjoy 🙂__](./assets\Screenshot 2023-05-27 211622.png)
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="assets\Screenshot 2023-05-27 211622.png" width="350" alt="accessibility text">
+</p>
