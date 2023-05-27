@@ -8,7 +8,7 @@
 
 # [STEP:4 __click on console and paste the copied code__]
 
-# [STEP:5 __Enjoy 🙂__]
+# [STEP:5 __Press enter and Enjoy 🙂__]
 
 <h1>I am also provided images in the assets folder for a better understanding</h1>
 <strong>Don't forget to add a star🙂</strong>
