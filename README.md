@@ -4,7 +4,7 @@
 
 # [STEP:2 __press CTRL+SHIFT+i click on cross button__]
 
-# [STEP:3 __copy the code__]
+# [STEP:3 __copy the code from "index.js" file__]
 
 # [STEP:4 __click on console and paste the copied code__]
 
