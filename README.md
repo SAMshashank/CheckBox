@@ -7,5 +7,5 @@
 ![STEP:5 __Enjoy 🙂__](https://peakpx.com/wallpaper/280/446/HD-wallpaper-tom-and-jarry-and-jarry-tom.jpg)
 <p align="center">csascffcas
   <img src="https://w0.peakpx.com/wallpaper/280/446/HD-wallpaper-tom-and-jarry-and-jarry-tom.jpg" width="350" title="hover text">
-  <img src="assets/Screenshot 2023-05-27 211622.png" width="350" alt="accessibility text">
+  <img src="https://github.com/SAMshashank/CheckBox/blob/main/assets/Screenshot%202023-05-27%20211317.png" width="350" alt="accessibility text">
 </p>
