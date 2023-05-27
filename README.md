@@ -2,7 +2,7 @@
 
 # [STEP:1 __open your course__]
 
-# [STEP:2 __click on cross button__]
+# [STEP:2 __press CTRL+SHIFT+i click on cross button__]
 
 # [STEP:3 __copy the code__]
 
