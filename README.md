@@ -11,4 +11,4 @@
 # [STEP:5 __Enjoy 🙂__]
 
 <h1>I am also provided images in the assets folder for a better understanding</h1>
-<strong>Don't forget to add star🙂</strong>
+<strong>Don't forget to add a star🙂</strong>
